@@ -3,11 +3,14 @@ title: "Me"
 permalink: "/about me/"
 layout: page
 ---
-
 ![IMG_2970](https://user-images.githubusercontent.com/105135459/207773956-caefe9a1-0739-4563-bae6-afa0850c369a.jpeg)
 
+## SKILLS
+- Languages and Databases: Java, Python, C#, JavaScript, HTML, CSS, SQL, MongoDB
+- Frameworks: Restful API, SpringBoot, Consul, Sentinel, Redis, Lua Script, JOOQ, RocketMQ
+- Tools: Git, Bitbucket, Maven, Postman, Jmeter, MySQL Workbench
 
-## WORK EXPERIENCE
+## EXPERIENCE
 **Software Engineer, Intern** _January 2023 - April 2023_<br />
 Helix | Grand Rapids, MI
 
