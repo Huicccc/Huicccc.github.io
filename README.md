@@ -1,7 +1,7 @@
 ---
 title: "About me"
 permalink: "/about me/"
-layout: default
+layout: page
 ---
 
 ## WORK EXPERIENCE
