@@ -29,7 +29,7 @@ Ruijin Hospital | Shanghai, China
 
 ## EDUCATION
 
-**MS in Computer Science**  _  Spring 2022 - Spring 2024_ **GPA 4.0**</br>
+**MS in Computer Science, GPA 4.0**  _  Spring 2022 - Spring 2024_</br>
 Northeastern University | Boston, MA 
 * Intensive Foundations of CS
 * Discrete Structure
@@ -37,7 +37,7 @@ Northeastern University | Boston, MA
 * Data Structure, Algorithms, and Their Applications within Computer Systems
 * Algorithms
 * Database Management Systems
-* Web Development
+* Web Development </br>
 ***To be continued***
 * CS 5600: Computer Systems
 * CS 5700: Fundamentals of Computer Networking
