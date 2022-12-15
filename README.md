@@ -30,15 +30,15 @@ Ruijin Hospital | Shanghai, China
 ## EDUCATION
 
 **MS in Computer Science**  _Spring 2022 - Spring 2024_<br />
+Northeastern University | Boston, MA
 ***GPA 4.0***
-Northeastern University | Boston, MA 
 * Intensive Foundations of CS
 * Discrete Structure
 * Object-Oriented Design
 * Data Structure, Algorithms, and Their Applications within Computer Systems
 * Algorithms
 * Database Management Systems
-* Web Development <br />
+* Web Development
 ***To be continued***
 * CS 5600: Computer Systems
 * CS 5700: Fundamentals of Computer Networking
