@@ -1,0 +1,11 @@
+---
+title: "2D Animator"
+layout: post
+---
+- Designed a Jar application that facilitates the creation of effective 2D animations from shapes. 
+- Developed a Model-View-Controller architecture including four different visual presentations, and the controller is supplied with a command-line parameter.
+- Wrote Junit tests for each class to test functionalities for all public APIs.
+- Designed and continuously improved the data structure selection and hierarchy of the classes, emphasizing the readability and flexibility of the codes.
+
+![big-bang-big-crunch](https://user-images.githubusercontent.com/105135459/206825445-ccdb201e-9757-4c20-b46d-60275abc56a2.gif)
+[Show project](https://github.com/Huicccc/Easy-Animator)
