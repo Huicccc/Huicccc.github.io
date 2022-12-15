@@ -4,6 +4,9 @@ permalink: "/about me/"
 layout: page
 ---
 
+![IMG_2970](https://user-images.githubusercontent.com/105135459/207773956-caefe9a1-0739-4563-bae6-afa0850c369a.jpeg)
+
+
 ## WORK EXPERIENCE
 **Software Engineer, Intern** _January 2023 - April 2023_<br />
 Helix | Grand Rapids, MI
