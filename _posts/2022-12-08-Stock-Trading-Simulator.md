@@ -1,5 +1,5 @@
 ---
-title: "MasterMind Game"
+title: "Stock Trading Simulator"
 layout: post
 ---
 - Created a database project for the stock trading simulator, using Graphical User Interface (GUI) and command line argument with Java and MySQL.
