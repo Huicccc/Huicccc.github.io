@@ -11,13 +11,16 @@ layout: page
 - Tools: Git, Bitbucket, Maven, Postman, Jmeter, MySQL Workbench
 
 ## EXPERIENCE
+**Software Engineer, Intern** _May 2023 - July 2023_<br />
+Gilbarco Veeder-Root | Greensboro, NC
+- Analyzed existing GVR Fueling solutions software components from an ESG sustainability standpoint and developed proposal to reduce greenhouse gases produced by the current software, generated sustainable solutions for GVR Fueling solutions customers.
+- Worked with the MEAN Stack (Angular + Node.js + Express + MongoDB) and created a green proxy solution to effectively monitor and track traffic data of AWS cloud-connected gas dispensers carbon impact. 
+- Integrated the developed tools into the existing CD/CI workflows, promoting responsible energy usage throughout the software development process.
+
 **Software Engineer, Intern** _January 2023 - April 2023_<br />
 Helix | Grand Rapids, MI
-
-- Developed the user interface, database, and controller logic for content management and migration application.
-- Dealed with hexadecimal, binary, and other low-level file management with .Net Core, MVC, APIs, and web APIs. 
-- Fixed issues (internal and external) within a defined SLA. 
-- Completed unit and integration testing per standards and design specs. 
+- Developed auto detection and correction Window service to address common connection failures within MARS Watcher (content archival and retrieval system), resulting in a 5% improvement in export performance.
+- Designed and implemented the above service using C# and DotNet, and incorporated the system log to ensure real-time detection and correction of issues, significantly improving the reliability and efficiency of the data archiving process. 
 
 **Teaching Assistant, Part-time** _September 2022 - December 2022_<br />
 Khoury College of Computer Sciences | Boston, MA
